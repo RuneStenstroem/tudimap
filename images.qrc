@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="checkerboard">images/checkerboard</file>
+        <file alias="splash">images/tudi_splash.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="actionmove">icons/actions-move-icon.png</file>
+        <file alias="action_rotate">icons/actions-rotate-icon.png</file>
+        <file alias="actionscale">icons/actions-scale-icon.png</file>
+        <file alias="folder">icons/folder-icon.png</file>
+        <file alias="app_ico">icons/tudi_ico.ico</file>
+        <file alias="group_overlay">icons/group_overlay.png</file>
+        <file alias="sprite_overlay">icons/sprite_overlay.png</file>
+        <file alias="actioncollider">icons/actions_collider_icon.png</file>
+        <file alias="actionzoom">icons/actions_zoom_icon.png</file>
+        <file alias="actionsalignx">icons/actions-alignment-X-icon.png</file>
+        <file alias="actionsaligny">icons/actions-alignment-Y-icon.png</file>
+        <file alias="layer_icon">icons/layer-icon.png</file>
+        <file alias="snap_icon">icons/snap_to_grid.png</file>
+        <file alias="show_grid">icons/show_grid.png</file>
+    </qresource>
+</RCC>
